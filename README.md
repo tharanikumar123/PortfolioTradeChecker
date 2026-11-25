@@ -17,9 +17,9 @@ PortfolioTradeChecker/
 │
 ├── data/
 │   ├── portfolio_reference.csv
-│   ├── current_holding.csv
+│   ├── current_holdings.csv
 │   ├── restricted_securities.csv
-│   └── trade_test.csv
+│   └── proposed_trades.csv
 │
 ├── src/
 │   ├── main.py
@@ -29,4 +29,4 @@ PortfolioTradeChecker/
 │   ├── portfolio_manager.py
 │   └── report_generator.py
 │
-├── README.md
+└── README.md
