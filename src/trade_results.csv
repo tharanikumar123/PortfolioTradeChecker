@@ -1,0 +1,21 @@
+portfolio_id,security_id,action,quantity,price,security_type,decision,reason
+POR001,AAPL,Buy,20,150,Equity,Approved,All applicable compliance checks passed.
+POR001,AAPL,Buy,60,150,Equity,Approved,All applicable compliance checks passed.
+POR001,TCS,Sell,50,310,Equity,Approved,All applicable compliance checks passed.
+POR001,TCS,Sell,60,310,Equity,Rejected,Insufficient holdings to sell.
+POR001,XYZCORP,Buy,10,50,Equity,Rejected,Security is restricted for this portfolio.
+POR001,AAPL,Buy,400,150,Equity,Rejected,Insufficient cash for this buy order.
+POR001,AAPL,Buy,-10,150,Equity,Rejected,Invalid trade data.
+POR001,INFY,Buy,10,1500,Equity,Approved,Manual approval granted. Trade executed.
+POR002,GOOGL,Buy,5,2000,Equity,Approved,Manual approval granted. Trade executed.
+POR003,BADCO,Buy,10,100,Equity,Rejected,Security is restricted for this portfolio.
+POR003,TCS,Buy,5,300,Equity,Approved,All applicable compliance checks passed.
+POR003,INFY,Buy,50,1500,Equity,Approved,Manual approval granted. Trade executed.
+POR003,RELIANCE,Sell,30,2400,Equity,Approved,All applicable compliance checks passed.
+POR003,RELIANCE,Sell,31,2400,Equity,Rejected,Insufficient holdings to sell.
+POR004,GOOGL,Buy,10,2000,Equity,Approved,Manual approval granted. Trade executed.
+POR004,AAPL,Buy,300,150,Equity,Approved,Manual approval granted. Trade executed.
+POR005,PENNY1,Buy,5,10,Equity,Approved,All applicable compliance checks passed.
+POR005,AAPL,Buy,33,150,Equity,Approved,Manual approval granted. Trade executed.
+POR005,AAPL,Buy,34,150,Equity,Rejected,Insufficient cash for this buy order.
+POR005,TCS,Buy,20,250,Equity,Approved,Manual approval granted. Trade executed.
